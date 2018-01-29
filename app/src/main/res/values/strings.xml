@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">The Bell</string>
+    <string name="plays_sound_when_clicked">Plays sound when clicked</string>
+</resources>
